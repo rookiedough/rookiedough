@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Data Science and AI student at the University of Doha for Science and Technology who loves building projects that mix creativity with tech. I’ve worked on projects like a ChatGPT‑style web app using OpenAI, custom agents with Copilot Studio, cloud workflows with Azure Functions and Docker, and even co‑authored a research paper on sensor‑based innovation. Along the way, I’ve earned certifications in Azure Fundamentals, Azure AI Fundamentals, ISC2 Cybersecurity, and Microsoft Fabric Analytics. My toolkit includes Python, TypeScript, Node.js, SQL, plus a range of cloud and automation skills. Outside of coding, I explore digital arts, 3D modelling, and design because I genuinely enjoy bringing creativity into technology. For me, the most exciting solutions happen when imagination meets code, where I feel most inspired. I’m eager to grow into an AI developer role where I can keep solving problems, building projects I’m proud of, and learning new ways to push the boundaries of what AI can do.
+I’m a Data Science and AI student at the University of Doha for Science and Technology who loves building projects that mix creativity with tech. I’ve worked on projects like a ChatGPT‑style web app using OpenAI, custom agents with Copilot Studio, cloud workflows with Azure Functions and Docker, and even co‑authored a research paper on sensor‑based innovation. 
+
+Along the way, I’ve earned certifications in Azure Fundamentals, Azure AI Fundamentals, ISC2 Cybersecurity, and Microsoft Fabric Analytics. My toolkit includes Python, TypeScript, Node.js, SQL, plus a range of cloud and automation skills. 
+
+Outside of coding, I explore digital arts, 3D modelling, and design because I genuinely enjoy bringing creativity into technology. For me, the most exciting solutions happen when imagination meets code, where I feel most inspired. I’m eager to grow into an AI developer role where I can keep solving problems, building projects I’m proud of, and learning new ways to push the boundaries of what AI can do.
 
 
 ## 🌐 Socials:
